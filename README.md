@@ -1,1 +1,1 @@
-# pneumonia-detection-deep-learning
+# Lungs_disease-detection-deep-learning
