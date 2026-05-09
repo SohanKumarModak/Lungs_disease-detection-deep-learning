@@ -82,6 +82,7 @@ model.compile(
 model.summary()
 
 # Train Model
+
 history = model.fit(
     train_generator,
     validation_data=val_generator,
